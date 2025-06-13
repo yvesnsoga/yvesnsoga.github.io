@@ -2,6 +2,7 @@
 
 ---
 Hi, I'm Yves Nsoga — a Ph.D. candidate in Biomedical Engineering at the University of Calgary. My research focuses on the intersection of medical technology and artificial intelligence, with a strong interest in building innovative, data-driven solutions for healthcare. I have a multidisciplinary background that spans biomedical systems, software engineering, and applied machine learning. I'm passionate about translating research into impactful technologies and collaborating across fields to push the boundaries of what’s possible in health innovation
+<br><br><br><br>
 
 ### Publications
 
