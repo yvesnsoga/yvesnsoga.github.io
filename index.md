@@ -7,7 +7,7 @@ Hi, I'm Yves Nsoga a Ph.D. student in Biomedical Engineering at the University o
 ### Open source Contributions
 <b>[CDmetrics]</b>
 <br>CDmetrics employs neural networks to measure the difficulty of individual cases in a dataset. The metrics are tailored to different definitions of prediction difficulty and are designed to perform well across various datasets.
-<a href="https://pypi.org/project/cdmetrics/"  target="_blank">Click there to see more</a>
+<a href="https://pypi.org/project/cdmetrics/"  target="_blank">Click here to see more</a>
 
 <br><br><br><br>
 ### Publications
@@ -16,11 +16,11 @@ Hi, I'm Yves Nsoga a Ph.D. student in Biomedical Engineering at the University o
 Auto-encoder]</b>
 <br> In this paper, we propose an efficient anomaly detection model based on Auto-encoder
 and novel thresholding procedure, using training data reconstruction error percentiles and parameters fine-tuning.
-<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8903799/"  target="_blank">Click there to read the full article</a>
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8903799/"  target="_blank">Click here to read the full article</a>
 
 <b>[A Low Inertia Guided Auto-Encoder for Anomaly Detection in Networks]</b>
 <br> The principal idea behind this paper is to emphasize the low Inertia during the feature extraction for anomaly
 detection. For this reason, we use an Auto-encoder, and force the hidden layer to project data into low Inertia domain, by
 incorporating a regularization term into the Auto-encoder loss function.
-<a href="https://ieeexplore.ieee.org/document/9238237"  target="_blank">Click there to read the full article</a>
+<a href="https://ieeexplore.ieee.org/document/9238237"  target="_blank">Click here to read the full article</a>
 
