@@ -407,7 +407,7 @@ ninja.data = [{
           title: 'Attended the 2026 Cohere Lab Summer school',
           description: "",
           section: "News",},{id: "news-attended-nsf-institute-for-artificial-intelligence-and-fundamental-interactions-summer-school",
-          title: 'Attended NSF institute for Artificial intelligence and fundamental interactions summer school',
+          title: 'Attended NSF Institute for Artificial Intelligence and Fundamental Interactions Summer School',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
